@@ -1,4 +1,4 @@
-# Hotstar App Deployment Project - Complete Guide
+# DevSecOps - Hotstar App Deployment Project - Complete Guide
 
 ## 📋 Project Overview
 
